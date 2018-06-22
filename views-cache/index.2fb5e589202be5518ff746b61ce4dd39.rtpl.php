@@ -1,0 +1,1 @@
+<?php if(!class_exists('Rain\Tpl')){exit;}?><h1>Teste do Rain TPL no projeto ecommerce</h1>
